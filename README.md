@@ -1,10 +1,10 @@
 
 
-<h1>Luís Mendes Machado</h1> https://www.linkedin.com/in/luismendesmachado1
+<h1>Luís Mendes Machado</h1> <a href='https://www.linkedin.com/in/luismendesmachado1'>Linkedin</a>
  
 <h2>Resumo de qualificações</h2> 
 
-<p>Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (IF Goiano - Campus Urutaí,   2014) <p>
+<p>Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (IF Goiano - Campus Urutaí,   2014) </p>
 
 <p><h3>Monografia</h3> "Algoritmo Genético Aplicado ao Problema de Escalonamento de Tarefas" </p>
 
@@ -24,14 +24,18 @@ Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Institu
 <p> Encontro Nacional de Computação (ENACOMP) - UFG Catalão - GO </p>
  
 <h2> Idiomas </h2>
-<p><h3>Inglês</h3></p> 
-EFSET English Certificate - Score: 54/100, Upper Intermediate (CEFR B2) - EF Education First(https://www.efset.org/) 
+
+<p>
+	<a href='https://www.efset.org/'><h3>Inglês</h3>
+
+EFSET English Certificate - Score: 54/100, 
+Upper Intermediate (CEFR B2) - EF Education First</a></p>
 
 <h2>Portfólio</h2>
 
-<p> <h3>GitHub</h3> https://github.com/luismendes070 </p>
+<p> <a href='https://github.com/luismendes070'><h3>GitHub</h3></p></a>
 
-<p> <h3>Wordpress</h3> https://luismendesmachadoblog.wordpress.com/ </p>
+<p> <a href='https://luismendesmachadoblog.wordpress.com/'><h3>Wordpress</h3></p></a>
 
 
 
