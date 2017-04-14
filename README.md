@@ -15,7 +15,7 @@ Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Institu
  
 <h2>Cursos complementares</h2>
 
-<a href='https://www.codecademy.com/ajaxMaster31343'><p>PHP Codecademy</p></a>
+<p><a href='https://www.codecademy.com/ajaxMaster31343'>PHP Codecademy</a></p>
 
 <p> C++: A General Purpose Language and Library Jump Start - Microsoft Virtual Academy </p>
 
@@ -25,11 +25,11 @@ Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Institu
  
 <h2> Idiomas </h2>
 
-<p>
-	<a href='https://www.efset.org/'><h3>Inglês</h3>
+<p><h3>Inglês</h3></p>
+	<a href='https://www.efset.org/'>
 
 EFSET English Certificate - Score: 54/100, 
-Upper Intermediate (CEFR B2) - EF Education First</a></p>
+Upper Intermediate (CEFR B2) - EF Education First</a>
 
 <h2>Portfólio</h2>
 
