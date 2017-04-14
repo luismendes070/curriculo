@@ -23,7 +23,7 @@ Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Institu
 <p> Encontro Nacional de Computação (ENACOMP) - UFG Catalão - GO </p>
  
 <h2> Idiomas </h2>
-Inglês Técnico 
+<p>Inglês</p> 
 EFSET English Certificate - Score: 54/100, Upper Intermediate (CEFR B2) - EF Education First(https://www.efset.org/) 
 
 <h2>Portfólio</h2>
