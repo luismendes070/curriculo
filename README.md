@@ -26,10 +26,7 @@ Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Institu
 <h2> Idiomas </h2>
 
 <p><h3>Inglês</h3></p>
-	<a href='https://www.efset.org/'>
-
-EFSET English Certificate - Score: 54/100, 
-Upper Intermediate (CEFR B2) - EF Education First</a>
+<a href='https://www.efset.org/'>EFSET English Certificate - Score: 54/100, Upper Intermediate (CEFR B2) - EF Education First</a>
 
 <h2>Portfólio</h2>
 
