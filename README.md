@@ -30,9 +30,9 @@ Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Institu
 
 <h2>Portfólio</h2>
 
-<p> <a href='https://github.com/luismendes070'><h3>GitHub</h3></p></a>
+<p> <a href='https://github.com/luismendes070'><h3>GitHub</h3></a> </p>
 
-<p> <a href='https://luismendesmachadoblog.wordpress.com/'><h3>Wordpress</h3></p></a>
+<p> <a href='https://luismendesmachadoblog.wordpress.com/'><h3>Wordpress</h3> </a> </p>
 
 
 
