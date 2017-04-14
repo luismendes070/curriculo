@@ -15,7 +15,7 @@ Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Institu
  
 <h2>Cursos complementares</h2>
 
-<p>PHP Codecademy</p>
+<a href='https://www.codecademy.com/ajaxMaster31343'><p>PHP Codecademy</p></a>
 
 <p> C++: A General Purpose Language and Library Jump Start - Microsoft Virtual Academy </p>
 
