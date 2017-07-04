@@ -4,14 +4,16 @@
  
 <h2>Resumo de qualificações</h2> 
 
-<p>Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (IF Goiano - Campus Urutaí,   2014) </p>
-
-<p><h3>Monografia</h3> "Algoritmo Genético Aplicado ao Problema de Escalonamento de Tarefas" </p>
+<p>Tecnólogo em Análise e Desenvolvimento de Sistemas (IF Goiano - Campus Urutaí,   2014) com 3 anos de experiência desenvolvendo aplicações com Java, PHP, HTML, CSS, JavaScript, MVC, SQL, Orientação a Objetos, Gerência de Projetos e Sistemas Distribuídos</p>
 
 <p><h3>Habilidades</h3> Java, PHP, SQL, C, C++ </p>
 
 <h2>Formação acadêmica</h2> 
-Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí
+<a href="">[Jan-2011][Mai-2014]
+<br>Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí
+</a>
+<b>Monografia: </b> "Algoritmo Genético Aplicado ao Problema de Escalonamento de Tarefas"
+
  
 <h2>Cursos complementares</h2>
 
