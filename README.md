@@ -11,37 +11,20 @@
 
 <h2>Formação acadêmica</h2> 
 <a href="https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-urutai/289-analise-e-desenvolvimento-de-sistemas">
-[Jan-2011][Mai-2014] Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí
-</a>
-
+[Jan-2011][Mai-2014] Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí</a>
 <br><b>Monografia: </b> "Algoritmo Genético Aplicado ao Problema de Escalonamento de Tarefas"
  
 <h2>Cursos complementares</h2>
-
-<p><a href='https://www.codecademy.com/ajaxMaster31343'>PHP Codecademy</a></p>
-
-<p> C++: A General Purpose Language and Library Jump Start - Microsoft Virtual Academy </p>
-
-<p> Trilha Java EE University, The Developers Conference - TDC 2012 </p>
-
-<p> Encontro Nacional de Computação (ENACOMP) - UFG Catalão - GO </p>
+<br><a href='https://www.codecademy.com/ajaxMaster31343'>PHP Codecademy</a>
+<br> C++: A General Purpose Language and Library Jump Start - Microsoft Virtual Academy
+<br> Trilha Java EE University, The Developers Conference - TDC 2012
+<br> Encontro Nacional de Computação (ENACOMP) - UFG Catalão - GO
  
 <h2> Idiomas </h2>
 
-<p><h3>Inglês</h3></p>
+<br><h3>Inglês</h3>
 <a href='https://www.efset.org/'>EFSET English Certificate - Score: 54/100, Upper Intermediate (CEFR B2) - EF Education First</a>
 
 <h2>Portfólio</h2>
-
-<p> <a href='https://github.com/luismendes070'><h3>GitHub</h3></a> </p>
-
-<p> <a href='https://luismendesmachadoblog.wordpress.com/'><h3>Wordpress</h3> </a> </p>
-
-
-
-
-
-
-
-
-
+<br><a href='https://github.com/luismendes070'><h3>GitHub</h3></a>
+<br><a href='https://luismendesmachadoblog.wordpress.com/'><h3>Wordpress</h3></a>
