@@ -1,4 +1,5 @@
 <h1>Luís Mendes Machado</h1> <a href='https://www.linkedin.com/in/luismendesmachado1'>Linkedin</a>
+<a href='https://luismendes070.github.io/curriculo/'>My CV in English</a>
 
 <h2>Resumo de qualificações</h2> 
 <p>Tecnólogo em <a href="https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-urutai/289-analise-e-desenvolvimento-de-sistemas"> Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí
