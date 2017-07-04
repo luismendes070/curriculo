@@ -15,8 +15,8 @@ com 3 anos de experiência desenvolvendo aplicações com Java, PHP, HTML, CSS,
 <a href="https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-urutai/289-analise-e-desenvolvimento-de-sistemas">
 [Jan-2011][Mai-2014] Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí
 </a>
-<b>Monografia: </b> "Algoritmo Genético Aplicado ao Problema de Escalonamento de Tarefas"
 
+<br><b>Monografia: </b> "Algoritmo Genético Aplicado ao Problema de Escalonamento de Tarefas"
  
 <h2>Cursos complementares</h2>
 
