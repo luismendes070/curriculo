@@ -10,7 +10,7 @@
 
 <h2>Formação acadêmica</h2> 
 <a href="">[Jan-2011][Mai-2014]
-<br>Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí
+<br>Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí
 </a>
 <b>Monografia: </b> "Algoritmo Genético Aplicado ao Problema de Escalonamento de Tarefas"
 
