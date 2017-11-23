@@ -1,9 +1,11 @@
 <h1>Luís Mendes Machado</h1> <a href='https://www.linkedin.com/in/luismendesmachado1'>Linkedin</a>
 <a href='https://luismendes070.github.io/curriculo/'>My CV in English</a>
 
+<br>Primeiro emprego formal<br>
+
 <h2>Resumo de qualificações</h2> 
 <p>Tecnólogo em <a href="https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-urutai/289-analise-e-desenvolvimento-de-sistemas"> Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí
-</a> com 3 anos de experiência desenvolvendo aplicações com Java, PHP, HTML, CSS, JavaScript, MVC, SQL, Orientação a Objetos, Gerência de Projetos e Sistemas Distribuídos</p>
+</a> com 3 anos desenvolvendo protótipos de aplicações com Java, PHP, HTML, CSS, JavaScript, MVC, SQL, Orientação a Objetos, Gerência de Projetos e Sistemas Distribuídos</p>
 
 <br><b>Habilidades:</b> Desenvolvimento mobile/web/desktop com Java, PHP, HTML, CSS, JavaScript, C/C++
 
@@ -23,5 +25,5 @@
 <a href='https://www.efset.org/'>EFSET English Certificate - Score: 54/100, Upper Intermediate (CEFR B2) - EF Education First</a>
 
 <h2>Portfólio</h2>
-<br><a href='https://github.com/luismendes070'><h3>GitHub</h3></a>
-<br><a href='https://luismendesmachadoblog.wordpress.com/'><h3>Wordpress</h3></a>
+<br><a href="https://github.com/luismendes070"><h3>GitHub</h3></a>
+<br><a href="https://luismendesmachadoblog.wordpress.com/"><h3>Wordpress</h3></a>
