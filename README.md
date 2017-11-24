@@ -1,44 +1,35 @@
-
-
 <h1>Luís Mendes Machado</h1> <a href='https://www.linkedin.com/in/luismendesmachado1'>Linkedin</a>
- 
+<a href='https://luismendes070.github.io/curriculo/'>My CV in English</a>
+
+<h2>Objetivo</h2>
+<br>Primeiro emprego formal de Analista Desenvolvedor de Sistemas ou Programador<br>
+
 <h2>Resumo de qualificações</h2> 
+<p>Tecnólogo em <a href="https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-urutai/289-analise-e-desenvolvimento-de-sistemas"> Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí
+</a> com 3 anos desenvolvendo protótipos de aplicações com Java, PHP, HTML, CSS, JavaScript, MVC, SQL, Orientação a Objetos, Gerência de Projetos e Sistemas Distribuídos</p>
 
-<p>Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (IF Goiano - Campus Urutaí,   2014) </p>
-
-<p><h3>Monografia</h3> "Algoritmo Genético Aplicado ao Problema de Escalonamento de Tarefas" </p>
-
-<p><h3>Habilidades</h3> Java, PHP, SQL, C, C++ </p>
+<br><b>Habilidades:</b> Desenvolvimento mobile/web/desktop com Java, PHP, HTML, CSS, JavaScript, C/C++
 
 <h2>Formação acadêmica</h2> 
-Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí
+<a href="https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-urutai/289-analise-e-desenvolvimento-de-sistemas">
+[Jan-2011][Mai-2014] Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí</a>
+<br><b>Monografia: </b> "Algoritmo Genético Aplicado ao Problema de Escalonamento de Tarefas"
  
 <h2>Cursos complementares</h2>
-
-<p><a href='https://www.codecademy.com/ajaxMaster31343'>PHP Codecademy</a></p>
-
-<p> C++: A General Purpose Language and Library Jump Start - Microsoft Virtual Academy </p>
-
-<p> Trilha Java EE University, The Developers Conference - TDC 2012 </p>
-
-<p> Encontro Nacional de Computação (ENACOMP) - UFG Catalão - GO </p>
+<br><a href='https://www.codecademy.com/ajaxMaster31343'>PHP Codecademy</a>
+<br> C++: A General Purpose Language and Library Jump Start - Microsoft Virtual Academy
+<br> Trilha Java EE University, The Developers Conference - TDC 2012
+<br> Encontro Nacional de Computação (ENACOMP) - UFG Catalão - GO
  
 <h2> Idiomas </h2>
-
-<p><h3>Inglês</h3></p>
+<br><h3>Inglês</h3>
 <a href='https://www.efset.org/'>EFSET English Certificate - Score: 54/100, Upper Intermediate (CEFR B2) - EF Education First</a>
 
 <h2>Portfólio</h2>
+<h3>
+<br>
+<a href="https://github.com/luismendes070">GitHub</a>
 
-<p> <a href='https://github.com/luismendes070'><h3>GitHub</h3></a> </p>
-
-<p> <a href='https://luismendesmachadoblog.wordpress.com/'><h3>Wordpress</h3> </a> </p>
-
-
-
-
-
-
-
-
-
+<br>
+<a href="https://luismendesmachadoblog.wordpress.com/">Wordpress</a>
+</h3>
