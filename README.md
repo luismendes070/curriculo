@@ -21,9 +21,13 @@
 <br> Trilha Java EE University, The Developers Conference - TDC 2012
 <br> Encontro Nacional de Computação (ENACOMP) - UFG Catalão - GO
  
-<h2> Idiomas </h2>
-<br><h3>Inglês</h3>
+<h2> Idioma </h2>
+<br><h3>Inglês Avançado</h3>
+<a href="https://raw.githubusercontent.com/luismendes070/curriculo/master/Teste%20de%20Ingl%C3%AAs%20Out%202018.PNG">Resultado do Teste</a>
+<!-- 
 <a href='https://www.efset.org/'>EFSET English Certificate - Score: 54/100, Upper Intermediate (CEFR B2) - EF Education First</a>
+-->
+
 
 <h2>Portfólio</h2>
 <h3>
