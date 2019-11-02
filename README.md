@@ -1,5 +1,8 @@
-<h1>Luís Mendes Machado</h1> <a href='https://www.linkedin.com/in/luismendesmachado1'>Linkedin</a>
-<a href='https://luismendes070.github.io/curriculo/'>My CV in English</a>
+<h1>Luís Mendes Machado</h1>
+ 
+<a href='https://www.linkedin.com/in/luismendesmachado1'>Linkedin em Português</a>
+<br>
+<a href='https://www.linkedin.com/in/luismendesmachado1/?locale=en_US'>Linkedin in English</a>
 
 <h2>Objetivo</h2>
 <br>Primeiro emprego formal de Analista Desenvolvedor de Sistemas ou Programador<br>
@@ -30,10 +33,14 @@
 
 
 <h2>Portfólio</h2>
-<h3>
-<br>
-<a href="https://github.com/luismendes070">GitHub</a>
 
 <br>
-<a href="https://luismendesmachadoblog.wordpress.com/">Wordpress</a>
-</h3>
+<a href="https://github.com/luismendes070">GitHub</a>
+<br>
+<a href="https://luismendesmachadoblog.wordpress.com/" >
+Blog
+</a>
+
+
+
+
