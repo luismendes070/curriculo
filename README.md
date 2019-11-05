@@ -5,7 +5,7 @@
 <a href='https://www.linkedin.com/in/luismendesmachado1/?locale=en_US'>Linkedin in English</a>
 
 <h2>Objetivo</h2>
-<br>Emprego Desenvolvedor Remoto CLT<br>
+<br>Cargo Desenvolvedor Remoto<br>
 
 <h2>Resumo de qualificações</h2> 
 <p>Tecnólogo em <a href="https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-urutai/289-analise-e-desenvolvimento-de-sistemas"> Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí
