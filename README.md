@@ -19,7 +19,13 @@
 <br><b>Monografia: </b> "Algoritmo Genético Aplicado ao Problema de Escalonamento de Tarefas"
  
 <h2>Cursos complementares</h2>
-<br><a href='https://www.codecademy.com/ajaxMaster31343'>PHP Codecademy</a>
+Codecademy 2016
+<br><a href='https://github.com/luismendes070/codecademy/blob/master/codecademy.pdf'>PHP</a>
+<br><a href='https://github.com/luismendes070/codecademy/blob/master/codecademy.pdf'>JQUERY</a>
+<br><a href='https://github.com/luismendes070/codecademy/blob/master/codecademy.pdf'>HTML</a>
+<br><a href='https://github.com/luismendes070/codecademy/blob/master/codecademy.pdf'>JAVASCRIPT</a>
+<br><a href='https://github.com/luismendes070/codecademy/blob/master/codecademy.pdf'>JAVA</a>
+
 <br> C++: A General Purpose Language and Library Jump Start - Microsoft Virtual Academy
 <br> Trilha Java EE University, The Developers Conference - TDC 2012
 <br> Encontro Nacional de Computação (ENACOMP) - UFG Catalão - GO
