@@ -21,8 +21,8 @@
 <h2>Cursos complementares</h2>
 Codecademy 2016
 <br><a href='https://github.com/luismendes070/codecademy/blob/master/codecademy.pdf'>PHP</a>
+
 <br><a href='https://github.com/luismendes070/codecademy/blob/master/codecademy.pdf'>JQUERY</a>
-<br><a href='https://github.com/luismendes070/codecademy/blob/master/codecademy.pdf'>HTML</a>
 <br><a href='https://github.com/luismendes070/codecademy/blob/master/codecademy.pdf'>JAVASCRIPT</a>
 <br><a href='https://github.com/luismendes070/codecademy/blob/master/codecademy.pdf'>JAVA</a>
 
