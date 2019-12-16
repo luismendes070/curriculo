@@ -46,6 +46,8 @@ Codecademy 2016
 <a href="https://luismendesmachadoblog.wordpress.com/" >
 Blog Wordpress 
 </a>
+<br>
+<a href="https://www.16personalities.com/profiles/5c4cf07240b63">Resultado Teste de Personalidade 16 personalities</a>
 
 
 
