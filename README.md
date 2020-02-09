@@ -3,6 +3,8 @@
 <a href='https://www.linkedin.com/in/luismendesmachado1'>Linkedin em Português</a>
 <br>
 <a href='https://www.linkedin.com/in/luismendesmachado1/?locale=en_US'>Linkedin in English</a>
+<br>
+<a href='https://luismendes070.github.io/curriculo/'>demo w3css GitHub Pages</a>
 
 <h2>Objetivo</h2>
 <br>Cargo Desenvolvedor Remoto<br>
