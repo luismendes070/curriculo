@@ -11,9 +11,9 @@
 
 <h2>Resumo de qualificações</h2> 
 <p>Tecnólogo em <a href="https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-urutai/289-analise-e-desenvolvimento-de-sistemas"> Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí
-</a> com 3 anos desenvolvendo protótipos de aplicações com Java, PHP, HTML, CSS, JavaScript, MVC, SQL, Orientação a Objetos, Gerência de Projetos e Sistemas Distribuídos</p>
+</a> desenvolvendo(2014-hoje) demonstrações, testes técnicos, protótipos de aplicações, software, plataformas back-end</p>
 
-<br><b>Habilidades:</b> Desenvolvimento mobile/web/desktop com Java, PHP, HTML, CSS, JavaScript, C/C++
+<br><b>Habilidades:</b> Desenvolvimento mobile/web/desktop com React Native, Android, Java, PHP, HTML, CSS, JavaScript, C/C++
 
 <h2>Formação acadêmica</h2> 
 <a href="https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-urutai/289-analise-e-desenvolvimento-de-sistemas">
