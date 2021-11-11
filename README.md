@@ -32,7 +32,11 @@ Carga Horária: 2191 horas
 <br> Encontro Nacional de Computação (ENACOMP) - UFG Catalão - GO
 <h2> Idioma </h2>
 <br><h3>Inglês Avançado</h3>
+B2
 <a href="https://raw.githubusercontent.com/luismendes070/curriculo/master/Teste%20de%20Ingl%C3%AAs%20Out%202018.PNG">Resultado do Teste</a>
+B1
+<a href="https://www.efset.org/cert/CHgDtV">EFSET B1 2021</a>
+
 <h2>Portfólio</h2>
 <br>
 <a href="https://github.com/luismendes070">GitHub</a>
