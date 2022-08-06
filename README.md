@@ -6,7 +6,8 @@
 <a href='https://luismendes070.github.io/curriculo/'>demo w3css GitHub Pages</a>
 <h2>Objetivo</h2>
 <br>Cargo Desenvolvedor Remoto<br>
-<h2>Resumo de qualificações</h2> 
+<h2>Resumo de qualificações</h2>
+<a href="https://github.com/luismendes070/luismendes070/blob/main/Certificate.pdf">CertiProf Scrum SFPC Certificate ID 78275619</a>
 <p>Tecnólogo em <a href="https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-urutai/289-analise-e-desenvolvimento-de-sistemas"> Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí
 </a> desenvolvendo(2014-hoje) demonstrações, testes técnicos, protótipos de aplicações, software, plataformas back-end</p>
 <br><b>Habilidades:</b> Desenvolvimento mobile/web/desktop com React Native, Android, Java, PHP, HTML, CSS, JavaScript, C/C++
