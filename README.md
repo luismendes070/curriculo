@@ -16,6 +16,12 @@
 <h2 lang="pt-BR">Competências Socioemocionais</h2>
 <a href="https://www.16personalities.com/profiles/5c4cf07240b63">Resultado Teste de Personalidade 16 personalities</a>
 
+<a href="./Competências Profissionais Graduação Análise e Desenvolvimento de Sistemas.pdf">
+
+<h2>[PDF]Competências Profissionais</h2>
+
+</a>
+
 <h2>Formação acadêmica</h2> 
 <h3>Ensino Superior</h3>
 <a href="https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-urutai/289-analise-e-desenvolvimento-de-sistemas">
