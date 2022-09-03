@@ -11,6 +11,11 @@
 <p>Tecnólogo em <a href="https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-urutai/289-analise-e-desenvolvimento-de-sistemas"> Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí
 </a> desenvolvendo(2014-hoje) demonstrações, testes técnicos, protótipos de aplicações, software, plataformas back-end</p>
 <br><b>Habilidades:</b> Desenvolvimento mobile/web/desktop com React Native, Android, Java, PHP, HTML, CSS, JavaScript, C/C++
+
+<h2 lang="en-US">Soft Skills</h2>
+<h2 lang="pt-BR">Competências Socioemocionais</h2>
+<a href="https://www.16personalities.com/profiles/5c4cf07240b63">Resultado Teste de Personalidade 16 personalities</a>
+
 <h2>Formação acadêmica</h2> 
 <h3>Ensino Superior</h3>
 <a href="https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-urutai/289-analise-e-desenvolvimento-de-sistemas">
@@ -42,8 +47,7 @@ Carga Horária: 2191 horas
 Blog Wordpress 
 </a>
 <br>
-<h1>Soft Skills</h1>
-<a href="https://www.16personalities.com/profiles/5c4cf07240b63">Resultado Teste de Personalidade 16 personalities</a>
+
 
 
 
