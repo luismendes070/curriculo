@@ -45,7 +45,7 @@ Carga Horária: 2191 horas
 <h2> Idioma </h2>
 <br><h3>Inglês Avançado</h3>
 <p lang="en-US"><a href="https://www.efset.org/cert/gGdEkx"> English Level B2 EFSET 2016</a></p>
-<p lang="pt-BR"><a href="https://raw.githubusercontent.com/luismendes070/curriculo/master/Teste%20de%20Ingl%C3%AAs%20Out%202018.PNG">Resultado do Teste</a></p>
+<p lang="pt-BR"><a href="https://raw.githubusercontent.com/luismendes070/curriculo/master/Teste%20de%20Ingl%C3%AAs%20Out%202018.PNG">Resultado do Teste Inglês Avançado</a></p>
 <h2>Portfólio</h2>
 <br>
 <a href="https://github.com/luismendes070">GitHub</a>
