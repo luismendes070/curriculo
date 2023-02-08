@@ -1,4 +1,4 @@
-<h1>Luís Mendes Machado</h1>
+<a href="https://luismendes070.github.io/curriculo/"><h1>Luís Mendes Machado</h1></a>
 <a href='https://www.linkedin.com/in/luismendesmachado1'>Linkedin em Português</a>
 <br>
 <a href='https://www.linkedin.com/in/luismendesmachado1/?locale=en_US'>Linkedin in English</a>
@@ -10,7 +10,7 @@
 <a href="https://github.com/luismendes070/luismendes070/blob/main/Certificate.pdf">CertiProf Scrum Foundation Professional Certicate SFPC Certificate ID 78275619</a>
 <p>Tecnólogo em <a href="https://www.ifgoiano.edu.br/home/index.php/cursos-superiores-urutai/289-analise-e-desenvolvimento-de-sistemas"> Análise e Desenvolvimento de Sistemas - Instituto Federal Goiano - Campus Urutaí
 </a> desenvolvendo(2014-hoje) demonstrações, testes técnicos, protótipos de aplicações, software, plataformas back-end</p>
-<br><b>Habilidades:</b> Desenvolvimento mobile/web/desktop com React Native, Android, Java, PHP, HTML, CSS, JavaScript, C/C++
+<br><b>Habilidades:</b> Desenvolvimento mobile/web/desktop com Ionic SDK, React Native, Android, Java, HTML5, CSS3, JavaScript(EcmaScript), TypeScript, C/C++
 
 <h2 lang="en-US">Soft Skills</h2>
 <h2 lang="pt-BR">Competências Socioemocionais</h2>
