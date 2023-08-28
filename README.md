@@ -14,6 +14,11 @@
 
 <h2 lang="en-US">Soft Skills</h2>
 <h2 lang="pt-BR">Competências Socioemocionais</h2>
+Competências pessoais e sociais
+Building Resilience - LinkedIn Learning
+Fundamentos do Trabalho em Equipe - LinkedIn Learning
+Profissional Adaptável: Inteligência emocional, finanças pessoais e liderança - PUC RS
+Disciplina Relações Interpessoais - Curso Superior Tecnologia em Análise e Desenvolvimento de Sistemas
 <a href="https://www.16personalities.com/profiles/5c4cf07240b63">Resultado Teste de Personalidade 16 personalities</a>
 
 <a href="./Competências Profissionais Graduação Análise e Desenvolvimento de Sistemas.pdf">
