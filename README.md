@@ -20,7 +20,7 @@ Building Resilience - LinkedIn Learning
 <br>
 Fundamentos do Trabalho em Equipe - LinkedIn Learning
 <br>
-Profissional Adaptável: Inteligência emocional, finanças pessoais e liderança - PUC RS
+<a href="https://certificado.pucrs.br/9bcf55a4-66d5-4aa2-b8e1-2ebc7f840a16?record_view=true#gs.4ijv2a">Profissional Adaptável: Inteligência emocional, finanças pessoais e liderança - PUC RS</a>a
 <br>
 Disciplina Relações Interpessoais - Curso Superior Tecnologia em Análise e Desenvolvimento de Sistemas
 <a href="https://www.16personalities.com/profiles/5c4cf07240b63">Resultado Teste de Personalidade 16 personalities</a>
